@@ -6,7 +6,6 @@ Este projeto aplica os conceitos iniciais de Arquitetura Orientada a Serviços (
 * Carlos Eduardo Machado de Oliveira
 
 ## 👥 Grupo (Nome da Equipe)
-* Mateus dos Santos da Silva RM558436
 * Nickolas Moreno Cardoso RM557132
 * André Giovanne de Maria RM556384
 
