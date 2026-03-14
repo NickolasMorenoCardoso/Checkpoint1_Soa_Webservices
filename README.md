@@ -8,6 +8,8 @@ Este projeto aplica os conceitos iniciais de Arquitetura Orientada a Serviços (
 ## 👥 Grupo (Nome da Equipe)
 * Nickolas Moreno Cardoso RM557132
 * André Giovanne de Maria RM556384
+* Mateus dos Santos da Silva RM558436
+* Mohamed Afif Smaili RM554445
 
 ---
 
